@@ -56,10 +56,27 @@
       CALENDLY_URL + "?hide_gdpr_banner=1&primary_color=007684&text_color=0b1f26"
     );
     booking.classList.add("ready");
-    var s = document.createElement("script");
-    s.src = "https://assets.calendly.com/assets/external/widget.js";
-    s.async = true;
-    document.body.appendChild(s);
+    // Load the scheduler only when the visitor gets near it, so the page stays fast.
+    var loaded = false;
+    var loadCalendly = function () {
+      if (loaded) return;
+      loaded = true;
+      var s = document.createElement("script");
+      s.src = "https://assets.calendly.com/assets/external/widget.js";
+      s.async = true;
+      document.body.appendChild(s);
+    };
+    if ("IntersectionObserver" in window) {
+      var bo = new IntersectionObserver(
+        function (entries) {
+          if (entries[0].isIntersecting) { loadCalendly(); bo.disconnect(); }
+        },
+        { rootMargin: "800px 0px" }
+      );
+      bo.observe(booking);
+    } else {
+      loadCalendly();
+    }
   }
 
   var year = document.querySelector("#year");

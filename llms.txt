@@ -1,0 +1,97 @@
+# Paralink Accounting
+
+> Paralink Accounting is a CPA-led firm providing fractional CFO and controller services to companies under $100M in revenue. It builds a controlled, reliable finance function first, then helps clients automate finance work with AI under CPA review.
+
+Paralink's point of view is "control first, then automation": AI layered on unreliable books produces wrong answers faster, so the firm stabilizes the month-end close, reconciliations, and reporting before introducing automation. A CPA reviews anything that affects a client's financial statements.
+
+## Key facts
+
+- Legal name: Paralink Accounting, LLC
+- What it is: CPA-led fractional CFO, fractional controller, and finance automation firm
+- Who it serves: companies under $100M in revenue, typically founder-led or privately held, with a small accounting team or an outside bookkeeper
+- Where it works: remotely with clients anywhere in the United States
+- Method: Assess, Stabilize, Automate
+- Fees: Discovery and the Automation Readiness Assessment are fixed-fee. Ongoing fractional work is a monthly retainer.
+- Founder: Shelly Macias, CPA (Fractional Controller and CFO)
+- Partner: Marshall Macias (Operations, Delivery and Automation)
+- Book a 30-minute intro call: https://calendly.com/shelly-paralinkaccounting/30min
+
+## Services
+
+- **Fractional CFO and Controller**: Experienced CPA leadership for your finance function: oversight of the close, the team, cash, and the conversations with lenders and investors.
+- **Controller Leave Coverage and Interim Support**: Coverage of the close, payroll, and controls during a controller leave, a transition, or a search.
+- **Month-End Close and Reconciliation Cleanup**: Catching up the books, reconciling every balance sheet account, and building a repeatable month-end close that lands on time.
+- **Reporting and FP&A**: Management reporting, budgets, and forecasts that leadership can act on.
+- **Finance Process and Systems Readiness**: Documented finance processes and well-configured systems that scale, hold up to an audit, and are ready to automate.
+- **Automation Readiness Assessment**: A fixed-scope, CPA-led review of where a finance function stands, what to fix first, and where AI can safely take on work.
+
+## When companies call Paralink
+
+- The month-end close keeps slipping and nobody fully trusts the numbers
+- A controller is going on leave, moving on, or the seat is open
+- A lender, investor, auditor, or buyer is about to look closely at the financials
+- Leadership wants AI in finance but is not sure the data underneath can carry it
+
+## Pages
+
+- [Home](https://paralinkaccounting.com/): services, method, engagement phases, FAQ, and booking
+- [Automation Readiness Assessment](https://paralinkaccounting.com/assessment.html): what is reviewed, deliverables, and how it works
+- [About](https://paralinkaccounting.com/about.html): why Paralink exists and who you work with
+
+## Frequently asked questions
+
+### What is a fractional CFO?
+
+A fractional CFO is a senior finance leader who works with your company part-time. You get the judgment of an experienced CFO for strategy, cash, reporting, and lender or investor conversations without the cost of a full-time executive.
+
+### What is the difference between a fractional CFO and a fractional controller?
+
+A controller owns the accuracy of the books: the month-end close, reconciliations, and controls. A CFO uses those numbers to guide decisions about cash, growth, and financing. Paralink provides both and often starts with controller work so the CFO work rests on numbers you can trust.
+
+### How does Paralink use AI in accounting?
+
+We use AI for repeatable, well-defined work such as matching transactions, drafting schedules, and flagging unusual items. Anything that affects your financial statements is reviewed by a CPA before it reaches you.
+
+### Who do you work with?
+
+Companies under $100M in revenue that need a stronger finance function: founder-led and privately held businesses, usually with a small accounting team or an outside bookkeeper and often at a moment of change such as growth, a financing, or a leadership transition.
+
+### Do you work remotely?
+
+Yes. We work remotely with clients anywhere in the United States. On-site visits happen when they are useful, for example at kickoff or during a key close.
+
+### Will AI replace our accountant?
+
+No. AI is good at repetitive, well-defined work such as matching transactions and drafting schedules. It is not accountable for your financial statements. We use it to free your people for review and judgment and a CPA signs off on what matters.
+
+### Our books are behind. Is it too early to talk?
+
+It is the right time. Catching up and stabilizing the close is where most of our engagements begin and it is the foundation for everything else.
+
+### Can you cover for our controller during a leave?
+
+Yes. We step in to run the close, support your team, and keep controls in place, then manage a clean handoff when your controller returns.
+
+### Do you replace our CPA firm or tax preparer?
+
+No. We work inside your finance function as your CFO or controller and coordinate with your outside tax and audit firms, so they get clean, timely information.
+
+### How do your fees work?
+
+Discovery and the Automation Readiness Assessment are fixed-fee. Ongoing fractional work is a monthly retainer sized to the scope, so you always know the cost in advance.
+
+### Who is this for?
+
+Leaders who want to bring AI into finance and need to know whether the foundation is ready and leaders who simply suspect the books or the close are not where they should be and want an independent, expert view.
+
+### What if the answer is "we're not ready"?
+
+That is a useful answer and a common one. The roadmap tells you exactly what stands in the way and the order to address it, so the investment in automation pays off when you make it.
+
+### Do we have to hire Paralink afterward?
+
+No. The roadmap is yours. Many clients ask us to help carry it out, but the assessment is designed to be useful on its own.
+
+### How do you handle our financial data?
+
+We ask for read-only access wherever possible, never request passwords in documents or email, and agree on confidentiality terms before any work begins.
